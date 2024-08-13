@@ -1,5 +1,4 @@
 # SAFE
-This project was developed using Python and OpenCV, creating a panoramic view of multiple images into a single image.
 
 The field of image stitching, sometimes referred to as mosaicing, is a thriving one in visual computing and graphic design research. Numerous methods for feature detection and description have surfaced in this field, adding to the diversity of approaches. In our thorough study on feature-based image stitching, we examined the SIFT technique, which is well-known for its rotational and scale invariance as well as its effectiveness in the presence of noise. Although it requires more processing time, SIFT is famous for its highly observable characteristics. Conversely, the SURF algorithm exhibits a distinct advantage in terms of execution speed and illumination adaptability. Furthermore, we aim to explore the realm of video stitching, wherein dynamic panoramas can be fashioned by seamlessly amalgamating video frames. Additionally, we aspire to tackle the challenge of stitching videos and images amidst considerable parallax, thereby broadening the scope for research pursuits.
 
